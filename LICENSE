@@ -1,0 +1,27 @@
+Copyright (c) 2024 Deepu P, Revathy R.K, Sreelakshmi L
+All Rights Reserved.
+
+TERMS AND CONDITIONS
+
+1. RESTRICTIONS
+   This software, source code, trained model weights, and all associated 
+   files may not be copied, modified, merged, published, distributed, 
+   sublicensed, or sold without explicit written permission from the authors.
+
+2. PERMITTED USE
+   This project is made available for viewing and academic reference only.
+   Any use beyond viewing requires prior written consent from the authors.
+
+3. DATASET ACKNOWLEDGMENT
+   The model included in this project was trained using publicly available 
+   datasets (UR Fall Detection Dataset, Roboflow, Open Images Dataset) 
+   for academic and research purposes only. All dataset credits belong 
+   to their respective owners.
+
+4. CONTACT
+   For permissions or collaborations, contact the authors directly 
+   through GitHub.
+
+5. DISCLAIMER
+   This software is provided "as is", without warranty of any kind.
+   The authors are not liable for any damages arising from its use.
